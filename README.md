@@ -537,4 +537,4 @@ For issues or improvements, refer to the troubleshooting section above or review
 
 **Happy Fitness Tracking! 💪**
 
-_Built with ❤️ for Campus Placements_
+
