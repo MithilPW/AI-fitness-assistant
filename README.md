@@ -1,12 +1,12 @@
 # 💪 AI-Based Personal Fitness Assistant
 
-A production-ready web application that uses machine learning and rule-based recommendations to generate personalized workout plans, diet recommendations, and fitness guidance.
+An intelligent full-stack web application that leverages machine learning and rule-based systems to generate personalized workout plans, diet recommendations, and adaptive fitness guidance.
 
 **Perfect for:** Computer science students showcasing projects during campus placements.
 
 ---
 
-## 🎯 Project Overview
+## 🚀 Overview
 
 The AI-Based Personal Fitness Assistant is a full-stack web application that:
 
@@ -374,7 +374,7 @@ This project demonstrates:
 
 ---
 
-## 🚀 Deployment Options
+## 🚀 Deployment
 
 ### Option 1: Render
 
@@ -404,6 +404,16 @@ This project demonstrates:
 pip install gunicorn
 gunicorn -w 4 -b 0.0.0.0:5000 app.app:app
 ```
+
+---
+
+## 🎯 Highlights
+
+- End-to-end ML pipeline (training → deployment)
+- Real-world problem solving (fitness + nutrition)
+- Explainable AI decisions
+- Clean modular architecture
+- Scalable backend design
 
 ---
 
@@ -536,5 +546,7 @@ For issues or improvements, refer to the troubleshooting section above or review
 ---
 
 **Happy Fitness Tracking! 💪**
+
+**💪 Build. Track. Improve.**
 
 _Built with ❤️ for Campus Placements_
