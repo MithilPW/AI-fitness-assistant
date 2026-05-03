@@ -494,15 +494,7 @@ lsof -ti:5000 | xargs kill -9
 
 ---
 
-## 📄 License
-
-This project is provided as-is for educational purposes.
-
----
-
 ## 👨‍💻 Author
-
-**Created for:** Campus Placement Showcase
 
 **Stack:**
 
