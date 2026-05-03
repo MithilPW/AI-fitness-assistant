@@ -2,7 +2,6 @@
 
 An intelligent full-stack web application that leverages machine learning and rule-based systems to generate personalized workout plans, diet recommendations, and adaptive fitness guidance.
 
-**Perfect for:** Computer science students showcasing projects during campus placements.
 
 ---
 
@@ -548,5 +547,3 @@ For issues or improvements, refer to the troubleshooting section above or review
 **Happy Fitness Tracking! 💪**
 
 **💪 Build. Track. Improve.**
-
-_Built with ❤️ for Campus Placements_
