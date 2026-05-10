@@ -1,5 +1,6 @@
 # 💪 AI-Based Personal Fitness Assistant
 
+
 An intelligent full-stack web application that leverages machine learning and rule-based systems to generate personalized workout plans, diet recommendations, and adaptive fitness guidance.
 
 ## 🚀 Overview
